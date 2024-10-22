@@ -7,7 +7,7 @@ The hourly power consumption data comes from PJM's website and are in megawatts 
 
 The regions have changed over the years so data may only appear for certain dates per region.
 
-**Energy Plot **
+**Energy Plot**
 Ideas of what you could do with this dataset:
 Split the last year into a test set- can you build a model to predict energy consumption?
 Find trends in energy consumption around hours of the day, holidays, or long term trends?
